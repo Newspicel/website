@@ -12,9 +12,8 @@ Social Media:
 
 Projects:
 
-<a href="https://github.com/newspicel">Everbyte</a>
-<a href="https://github.com/newspicel">Layercraft</a>
-
+<a href="https://everbyte.dev">Everbyte</a>
+<a href="https://layercraft.io">Layercraft</a>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Never Gonna Give You Up</a>
