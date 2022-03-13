@@ -2,7 +2,7 @@
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->newspicel.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
-<a <!--href="<https://blog.newspicel.dev" -->>Blog (Maintenance)</a>
+<a <!--href="https://blog.newspicel.dev" --> >Blog (Maintenance)</a>
 
 <a href="https://koalendar.com/e/meet-with-julian-haag">Book appointment</a>
 
