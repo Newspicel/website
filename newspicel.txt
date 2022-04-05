@@ -10,7 +10,7 @@ Social Media:
 
 <a href="https://twitter.com/Newspicel">Twitter</a>
 <a href="https://github.com/newspicel">Github</a>
-<a href="https://discord.newspicel.dev">Discord</a>
+<a href="https://discord.gg/HHMMSaXpCt">Discord</a>
 
 Projects:
 
