@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'newspicel.txt';
+Typer.file = 'https://raw.githubusercontent.com/Newspicel/website/main/newspicel.txt';
 Typer.init();
 
 var time = 30;
