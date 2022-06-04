@@ -4,8 +4,6 @@ My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf 
 
 <a href="https://blog.newspicel.dev">Blog</a>
 
-<a href="https://koalendar.com/e/meet-with-julian-haag">Book appointment</a>
-
 Social Media:
 
 <a href="https://twitter.com/Newspicel">Twitter</a>
@@ -14,7 +12,7 @@ Social Media:
 
 Projects:
 
-<a href="https://www.everbyte.dev">Everbyte</a>
+<a href="https://byteverse.studio">Byteverse Studio</a>
 <a href="https://layercraft.io">Layercraft</a>
 
 
