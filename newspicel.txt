@@ -1,14 +1,15 @@
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cd Newspicel/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->newspicel.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+There are two things I love, <span id="k">BigData</span> and <span id="k">OpenSource</span>. <!-- sjkfhskjf -->
+I currently work at a startup that makes an app for multibanking and insurance, and personally I work on a Big Data project. 
+I use Kotlin btw.
 
-<a href="https://blog.newspicel.dev">Blog</a>
+Contact Me:
 
-Social Media:
-
-<a href="https://twitter.com/Newspicel">Twitter</a>
 <a href="https://github.com/newspicel">Github</a>
+<a href="https://www.linkedin.com/in/julianhaag/">LinkedIn</a>
+<a href="https://twitter.com/Newspicel">Twitter</a>
 <a href="https://discord.gg/HHMMSaXpCt">Discord</a>
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click here</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click here</a>, if you like Rick Astley! :) 
