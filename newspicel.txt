@@ -1,7 +1,7 @@
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cd Newspicel/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->newspicel.txt<br/><br/>
 There are two things I love, <span id="k">BigData</span> and <span id="k">OpenSource</span>. <!-- sjkfhskjf -->
-I currently work at a startup that makes an app for multibanking and insurance, and personally I work on a Big Data project. 
+I currently work at a startup that makes youtube analytics plattform, and personally I work on a lot of projects. 
 I use Kotlin btw.
 
 Contact Me:
