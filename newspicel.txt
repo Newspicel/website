@@ -1,7 +1,7 @@
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cd Newspicel/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->newspicel.txt<br/><br/>
 There are two things I like, <span id="k">BigData</span> and <span id="k">OpenSource</span>. <!-- sjkfhskjf -->
-I'm currently working for viewstats by mrbeast and some other smaller projects, and I'm also working on some personal projects, like an inventory system for the IAB tech team. 
+I'm currently working for hitschies (the candy brand), and also on some personal projects. 
 I use Kotlin btw.
 
 Contact Me:
