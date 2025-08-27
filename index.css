@@ -25,7 +25,15 @@ a {
   color: #0f0;
 }
 
+.a {
+  color: #0f0;
+}
+
 #c {
+  color: #0bc;
+}
+
+.c {
   color: #0bc;
 }
 
@@ -33,22 +41,10 @@ a {
   color: #ff0096;
 }
 
-#k {
-  animation: change 1s;
+.b {
+  color: #ff0096;
 }
 
-#op {
-  color: #888888;
-}
 
-@keyframes change {
-  0% {
-    color: #0f0;
-  }
-  50% {
-    color: #0f0;
-  }
-  99% {
-    color: black;
-  }
-}
+
+
