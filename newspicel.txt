@@ -1,6 +1,5 @@
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cd Newspicel/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">code@dev</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->newspicel.txt<br/><br/>
-There are two things I like, <span id="k">BigData</span> and <span id="k">OpenSource</span>. <!-- sjkfhskjf -->
 I'm working for hitschies (the candy brand), and also do some personal projects.
 And sometimes I break some stuff and sometimes I make some stuff. And sometimes I brick myself. 
 
