@@ -25,11 +25,23 @@ a {
   color: #0f0;
 }
 
+.a {
+  color: #0f0;
+}
+
 #c {
   color: #0bc;
 }
 
+.c {
+  color: #0bc;
+}
+
 #b {
+  color: #ff0096;
+}
+
+.b {
   color: #ff0096;
 }
 
