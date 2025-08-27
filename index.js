@@ -10,18 +10,20 @@ var Typer = {
     accessCountimer = setInterval(function () {
       Typer.updLstChr();
     }, 500);
-    $.get(Typer.file, function (data) {
-      Typer.text = data;
-      Typer.text = Typer.text.slice(0, Typer.text.length - 1);
-    });
+    fetch(Typer.file)
+      .then(response => response.text())
+      .then(data => {
+        Typer.text = data;
+        Typer.text = Typer.text.slice(0, Typer.text.length - 1);
+      });
   },
 
   content: function () {
-    return $('#console').html();
+    return document.getElementById('console').innerHTML;
   },
 
   write: function (str) {
-    $('#console').append(str);
+    document.getElementById('console').innerHTML += str;
     return false;
   },
 
@@ -43,11 +45,8 @@ var Typer = {
     } else if (Typer.text) {
       var cont = Typer.content();
       if (cont.substring(cont.length - 1, cont.length) == '|')
-        $('#console').html(
-          $('#console')
-            .html()
-            .substring(0, cont.length - 1),
-        );
+        document.getElementById('console').innerHTML = 
+          document.getElementById('console').innerHTML.substring(0, cont.length - 1);
       if (key.keyCode != 8) {
         Typer.index += Typer.speed;
       } else {
@@ -56,7 +55,7 @@ var Typer = {
       var text = Typer.text.substring(0, Typer.index);
       var rtn = new RegExp('\n', 'g');
 
-      $('#console').html(text.replace(rtn, '<br/>'));
+      document.getElementById('console').innerHTML = text.replace(rtn, '<br/>');
       window.scrollBy(0, 50);
     }
 
@@ -74,11 +73,8 @@ var Typer = {
     var cont = this.content();
 
     if (cont.substring(cont.length - 1, cont.length) == '|')
-      $('#console').html(
-        $('#console')
-          .html()
-          .substring(0, cont.length - 1),
-      );
+      document.getElementById('console').innerHTML = 
+        document.getElementById('console').innerHTML.substring(0, cont.length - 1);
     else this.write('|'); // else write it
   },
 };
